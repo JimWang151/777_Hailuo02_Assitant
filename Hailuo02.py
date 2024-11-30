@@ -141,15 +141,13 @@ class GetPrompt:
             #tree = ET.parse('./template.xml')
             root = tree.getroot()
 
-            # 遍历所有template节点
             for template in root.findall('template'):
                 # 检查template的id是否匹配
                 if template.get('id') == template_id:
-                    # 获取template下的version节点
-                    version_node = template.find('version')
-                    if version_node is not None and version_node.text == version:
-                        # 遍历template下的所有details节点
-                        for details in template.findall('details'):
+                    # 遍历template下的所有details节点
+                    for details in template.findall('details'):
+                        # 检查version是否匹配
+                        if details.get('version') == version:
                             # 检查resolution是否匹配
                             resolution_node = details.find('resolution')
                             if resolution_node is not None and resolution_node.text == resolution:
