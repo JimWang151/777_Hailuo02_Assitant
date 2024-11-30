@@ -1,0 +1,317 @@
+<templates>
+    <template id="template1">
+        <name>青荷_Qing He</name>
+        <version>woman</version>
+        <details>
+            <resolution>768×1024</resolution>
+            <desc>full body</desc>
+            <prompt>wearing a Hanfu inspired by the elegance of lotus flowers, soft green and pink hues, standing on a wooden bridge over a lotus pond, full body shot, one hand lightly brushing the petals of a lotus flower, her other hand lifting her skirt slightly, a gentle smile on her face, soft sunlight reflecting on the water</prompt>
+        </details>
+        <details>
+            <resolution>1024×1024</resolution>
+            <desc>half body</desc>
+            <prompt>dressed in lotus-inspired Hanfu, waist-up view, her hands holding a delicate folding fan, her expression playful and bright as she peeks over the fan, subtle details of her hair adorned with lotus pins, warm light adding softness to her features</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up1</desc>
+            <prompt>in Hanfu with flowing sleeves, one hand reaching out as if to touch the water's surface, her expression curious and serene, lotus petals floating nearby, sunlight casting gentle highlights on her attire</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up2</desc>
+            <prompt>wearing a pastel Hanfu, sitting on the edge of a wooden bridge, her sleeves trailing down, one hand resting on her cheek as she gazes thoughtfully into the distance, soft natural light enhancing the intricate embroidery of her outfit</prompt>
+        </details>
+        <version>man</version>
+        <details>
+            <resolution>768×1024</resolution>
+            <desc>full body</desc>
+            <prompt>in Hanfu inspired by lotus ponds, muted green tones with delicate floral embroidery, standing under a willow tree near a lotus pond, full body shot, one hand lifting the hem of his robe as he steps forward, his expression calm and composed, sunlight creating dappled shadows on his figure</prompt>
+        </details>
+        <details>
+            <resolution>1024×1024</resolution>
+            <desc>half body</desc>
+            <prompt>wearing a Hanfu with lotus-themed details, waist-up view, one hand holding a bamboo flute, his head slightly tilted with a faint smile, warm light illuminating his features and the delicate folds of his robe</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up1</desc>
+            <prompt>in Hanfu with subtle floral patterns, captured mid-motion as he adjusts his sleeve, a serene expression on his face, sunlight reflecting softly on the embroidery details</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up2</desc>
+            <prompt>wearing a green Hanfu, seated by the edge of a pond, his fingers lightly tracing the water's surface, a contemplative look in his eyes, soft light emphasizing the natural folds of his attire</prompt>
+        </details>
+    </template>
+    <template id="template2">
+        <name>霜影_Shuang Ying</name>
+        <version>woman</version>
+        <details>
+            <resolution>768×1024</resolution>
+            <desc>full body</desc>
+            <prompt>in Hanfu inspired by frosty mornings, pale silver and blue tones, standing on a snow-covered path, full body shot, her hand raised to catch a snowflake, her expression filled with quiet wonder, sunlight casting a soft glow on the frost-covered trees</prompt>
+        </details>
+        <details>
+            <resolution>1024×1024</resolution>
+            <desc>half body</desc>
+            <prompt>wearing a frost-themed Hanfu, waist-up view, gently adjusting her fur-lined collar with one hand, her expression warm as she breathes into her palms, delicate embroidery details highlighted by the soft winter light</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up1</desc>
+            <prompt>in a winter-inspired Hanfu, mid-motion as she brushes snow off her sleeve, her expression playful, soft light illuminating her delicate features and the shimmering frost patterns on her robe</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up2</desc>
+            <prompt>wearing a silvery Hanfu, sitting on a snow-covered rock, her hands folded in her lap, gazing up at the falling snow with a dreamy smile, warm sunlight breaking through the cold haze, adding depth to the scene</prompt>
+        </details>
+        <version>man</version>
+        <details>
+            <resolution>768×1024</resolution>
+            <desc>full body</desc>
+            <prompt>in frost-inspired Hanfu, pale blue and white tones, standing under a bare tree in a snowy forest, full body shot, mid-step as he walks forward, one hand resting on his waist sash, his expression calm and confident, soft winter sunlight creating delicate shadows</prompt>
+        </details>
+        <details>
+            <resolution>1024×1024</resolution>
+            <desc>half body</desc>
+            <prompt>wearing a Hanfu with frost-like patterns, waist-up view, adjusting the fur-lined edge of his robe, his expression thoughtful and serene, soft natural light highlighting the rich textures of his attire</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up1</desc>
+            <prompt>dressed in winter-themed Hanfu, his hand reaching out to catch a falling snowflake, a faint smile on his lips, sunlight reflecting off the frost crystals on his sleeve</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up2</desc>
+            <prompt>in Hanfu with icy blue accents, sitting on a snow-dusted bench, his posture relaxed as he leans slightly forward, his expression thoughtful, warm light adding contrast to the cold background</prompt>
+        </details>
+    </template>
+    <template id="template3">
+        <name>琼枝_Qiong Zhi</name>
+        <version>woman</version>
+        <details>
+            <resolution>768×1024</resolution>
+            <desc>full body</desc>
+            <prompt>wearing Hanfu inspired by elegant plum blossoms, vibrant red and white tones, standing beside a blooming plum tree, full body shot, her hand lightly touching a branch, her face glowing with a joyful smile, sunlight filtering through the blossoms</prompt>
+        </details>
+        <details>
+            <resolution>1024×1024</resolution>
+            <desc>half body</desc>
+            <prompt>dressed in plum blossom-themed Hanfu, waist-up view, holding a single plum blossom close to her face, her expression playful and warm, delicate petals in her hair catching the soft natural light</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up1</desc>
+            <prompt>in a red and white Hanfu, leaning gently against a plum tree, her hands resting on the folds of her sleeve, her expression thoughtful, sunlight highlighting the subtle embroidery on her robe</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up2</desc>
+            <prompt>wearing a plum blossom-inspired Hanfu, seated on a stone bench, her hands delicately arranging a branch of flowers, a soft smile lighting up her face, warm light enhancing the scene's tranquility</prompt>
+        </details>
+        <version>man</version>
+        <details>
+            <resolution>768×1024</resolution>
+            <desc>full body</desc>
+            <prompt>in Hanfu inspired by the strength of plum blossoms, muted red tones, standing in a blooming plum grove, full body shot, one hand resting on the hilt of a ceremonial fan, his expression serene and confident, sunlight filtering through the branches</prompt>
+        </details>
+        <details>
+            <resolution>1024×1024</resolution>
+            <desc>half body</desc>
+            <prompt>wearing plum blossom-themed Hanfu, waist-up view, holding a small scroll, his head slightly tilted with a faint smile, sunlight adding depth to the rich colors of his attire</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up1</desc>
+            <prompt>in a Hanfu with red and white accents, leaning against a plum tree, his expression calm yet introspective, sunlight highlighting the natural folds and details of his attire</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up2</desc>
+            <prompt>wearing plum blossom-inspired Hanfu, seated under a tree, one hand lightly brushing the edge of his sleeve, his expression warm, sunlight enhancing the soft hues of his outfit</prompt>
+        </details>
+    </template>
+    <template id="template4">
+        <name>月影_Yue Ying</name>
+        <version>woman</version>
+        <details>
+            <resolution>768×1024</resolution>
+            <desc>full body</desc>
+            <prompt>in Hanfu inspired by the serene beauty of moonlight, flowing pale blue and silver fabrics, standing on a stone terrace under a full moon, full body shot, her arms outstretched gracefully as if embracing the night breeze, her expression tranquil with a hint of wonder, moonlight softly illuminating her figure</prompt>
+        </details>
+        <details>
+            <resolution>1024×1024</resolution>
+            <desc>half body</desc>
+            <prompt>wearing moonlight-themed Hanfu, waist-up view, holding a delicate lantern, her face tilted slightly upward with a serene smile, soft highlights on her outfit and hair reflecting the moon's gentle glow</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up1</desc>
+            <prompt>in Hanfu with silver embroidery, mid-motion as she gently raises her sleeve to shield her face from the lantern’s light, her expression curious and playful, the glow of the moon casting subtle shadows on her robe</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up2</desc>
+            <prompt>in flowing Hanfu, seated on a terrace step, her hand delicately tracing the edge of her lantern, her gaze soft and thoughtful, moonlight casting a serene glow on her elegant attire</prompt>
+        </details>
+        <version>man</version>
+        <details>
+            <resolution>768×1024</resolution>
+            <desc>full body</desc>
+            <prompt>in Hanfu inspired by the stillness of moonlight, pale gray and silver tones, standing near a calm pond under the full moon, full body shot, his robe lightly billowing in the breeze, one hand resting on the hilt of a sword, his expression calm yet focused, moonlight reflecting off the water and illuminating his figure</prompt>
+        </details>
+        <details>
+            <resolution>1024×1024</resolution>
+            <desc>half body</desc>
+            <prompt>dressed in moon-themed Hanfu, waist-up view, holding a paper lantern, his head slightly turned with a faint smile, moonlight highlighting the subtle textures of his attire and the soft gleam of the lantern</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up1</desc>
+            <prompt>in Hanfu with silver accents, leaning slightly against a stone pillar, his hand adjusting his sleeve as his expression becomes reflective, soft moonlight adding depth to the scene</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up2</desc>
+            <prompt>wearing a pale gray Hanfu, seated near a calm pond, his fingers lightly brushing the water’s surface, his gaze fixed on the moon’s reflection, the soft glow enhancing the tranquility of the scene</prompt>
+        </details>
+    </template>
+    <template id="template5">
+        <name>霞辉_Xia Hui</name>
+        <version>woman</version>
+        <details>
+            <resolution>768×1024</resolution>
+            <desc>full body</desc>
+            <prompt>in Hanfu inspired by the vibrant hues of sunrise, warm red and orange tones with gold accents, standing on a grassy hill as the sun rises behind her, full body shot, her arms raised slightly as she twirls gracefully, her face glowing with joy, morning light enhancing the vivid colors of her attire</prompt>
+        </details>
+        <details>
+            <resolution>1024×1024</resolution>
+            <desc>half body</desc>
+            <prompt>wearing sunrise-themed Hanfu, waist-up view, holding a silk ribbon in her hands, her head turned slightly with a bright, cheerful smile, sunlight reflecting off the intricate golden embroidery on her robe</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up1</desc>
+            <prompt>in Hanfu with golden accents, mid-motion as she lifts her ribbon into the air, her expression playful and carefree, sunlight creating dynamic shadows across her figure and attire</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up2</desc>
+            <prompt>wearing a fiery-toned Hanfu, sitting on the grass, her hands gently arranging the folds of her robe, her gaze upward with a dreamy smile, warm light enveloping the scene in a golden glow</prompt>
+        </details>
+        <version>man</version>
+        <details>
+            <resolution>768×1024</resolution>
+            <desc>full body</desc>
+            <prompt>in Hanfu inspired by the energy of sunrise, deep red and orange tones, standing on a hilltop as dawn breaks, full body shot, one hand shielding his eyes as he gazes at the horizon, his expression confident and inspired, golden light illuminating the details of his attire</prompt>
+        </details>
+        <details>
+            <resolution>1024×1024</resolution>
+            <desc>half body</desc>
+            <prompt>wearing Hanfu with sunrise-themed patterns, waist-up view, holding a bamboo flute in one hand, his expression bright and full of energy, sunlight casting dynamic highlights on his attire</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up1</desc>
+            <prompt>in Hanfu with bold red and gold embroidery, mid-motion as he adjusts the sash of his robe, his expression lively and warm, sunlight accentuating the textures and colors of his outfit</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up2</desc>
+            <prompt>in fiery Hanfu, seated on the edge of a hilltop, his hand resting on his knee as he looks out at the rising sun, a content smile on his face, golden light wrapping around him and the landscape</prompt>
+        </details>
+    </template>
+    <template id="template6">
+        <name>烟霞_Yan Xia</name>
+        <version>woman</version>
+        <details>
+            <resolution>768×1024</resolution>
+            <desc>full body</desc>
+            <prompt>wearing a Hanfu inspired by misty clouds and rosy sunsets, soft gradients of pink and orange, standing on a mountain path with clouds surrounding her, full body shot, her arm extended outward as if to feel the breeze, a gentle and carefree smile lighting up her face, sunlight casting warm hues on her flowing robes</prompt>
+        </details>
+        <details>
+            <resolution>1024×1024</resolution>
+            <desc>half body</desc>
+            <prompt>dressed in cloud-inspired Hanfu, waist-up view, holding a small tassel in her hand, her expression joyful and bright, her head slightly tilted as if listening to the wind, warm light creating a dreamy glow on her outfit</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up1</desc>
+            <prompt>in a Hanfu with gradient embroidery, captured mid-motion as she lifts a corner of her sleeve, a playful, radiant smile on her lips, sunlight highlighting her hair accessories and the intricate patterns of her robe</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up2</desc>
+            <prompt>wearing a sunset-toned Hanfu, sitting on a rock surrounded by mist, her hands delicately resting on her lap, her gaze filled with serenity as she looks at the distant horizon, warm light enhancing the vibrant hues of her attire</prompt>
+        </details>
+        <version>man</version>
+        <details>
+            <resolution>768×1024</resolution>
+            <desc>full body</desc>
+            <prompt>in Hanfu inspired by sunset skies and misty mountains, soft gradients of orange and red, standing on a rocky peak with clouds drifting below, full body shot, his hand resting on a bamboo staff, his expression confident yet relaxed, sunlight casting golden highlights on his robe</prompt>
+        </details>
+        <details>
+            <resolution>1024×1024</resolution>
+            <desc>half body</desc>
+            <prompt>wearing a sunset-themed Hanfu, waist-up view, his hand adjusting the edge of his robe, his gaze steady and calm, sunlight adding depth and warmth to the subtle gradient details of his attire</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up1</desc>
+            <prompt>in gradient-toned Hanfu, his hands clasping the hilt of a ceremonial fan, his expression bright and approachable, sunlight reflecting softly on his face and the natural folds of his robe</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up2</desc>
+            <prompt>wearing a sunset-inspired Hanfu, sitting on a moss-covered rock, his posture relaxed as he looks out over the misty valley, his expression contemplative, warm light accentuating the delicate textures of his outfit</prompt>
+        </details>
+    </template>
+    <template id="template7">
+        <name>兰幽_Lan You</name>
+        <version>woman</version>
+        <details>
+            <resolution>768×1024</resolution>
+            <desc>full body</desc>
+            <prompt>in Hanfu inspired by serene orchids, soft purple and white tones, standing in a quiet bamboo grove, full body shot, one hand gently touching an orchid bloom, her other hand trailing along her flowing sleeve, a soft and peaceful smile lighting her face, sunlight filtering through the bamboo leaves</prompt>
+        </details>
+        <details>
+            <resolution>1024×1024</resolution>
+            <desc>half body</desc>
+            <prompt>dressed in orchid-inspired Hanfu, waist-up view, holding a bamboo flute close to her chest, her expression calm and tender, her hair adorned with purple blossoms, warm light softly illuminating her features</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up1</desc>
+            <prompt>in a delicate Hanfu with orchid embroidery, captured mid-motion as she adjusts her hairpiece, a soft, content smile on her lips, sunlight enhancing the natural texture of her robe and the soft glow of her accessories</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up2</desc>
+            <prompt>wearing a purple-toned Hanfu, sitting on a wooden bench in the bamboo grove, her hands resting on her knees as she looks down at a blooming orchid plant with a serene smile, dappled light creating gentle contrasts in the scene</prompt>
+        </details>
+        <version>man</version>
+        <details>
+            <resolution>768×1024</resolution>
+            <desc>full body</desc>
+            <prompt>in Hanfu inspired by the grace of orchids, muted purple tones with white accents, standing on a stone path in a bamboo forest, full body shot, his hand lightly holding a scroll, his expression calm yet focused, sunlight filtering through the leaves creating dappled highlights on his figure</prompt>
+        </details>
+        <details>
+            <resolution>1024×1024</resolution>
+            <desc>half body</desc>
+            <prompt>wearing an orchid-themed Hanfu, waist-up view, one hand adjusting the folds of his robe, his expression serene, a single purple orchid tucked into his sash, warm light softly highlighting his features and attire</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up1</desc>
+            <prompt>in a muted purple Hanfu, captured mid-motion as he raises a small jade ornament to inspect it, his expression thoughtful, sunlight reflecting softly on the natural textures of his robe</prompt>
+        </details>
+        <details>
+            <resolution>768×512</resolution>
+            <desc>close-up2</desc>
+            <prompt>wearing an orchid-inspired Hanfu, sitting cross-legged on a stone platform, his hands resting on his knees as he gazes at a blooming orchid, his expression calm and reflective, dappled sunlight adding depth to the serene atmosphere</prompt>
+        </details>
+    </template>
+</templates>
