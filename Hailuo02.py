@@ -74,13 +74,10 @@ class GetPrompt:
 
 
             prompt += self.getFocalLength(step,width, height)
-            print(f"pa1:{id}")
-            print(f"pa2:{version}")
-            print(f"pa3:{resolution}")
-            print(f"pa4:{closeup}")
+
             name,tempprompt=self.getPrompt(id,version,resolution,closeup)
             prompt+=prompt+character+","+tempprompt
-            print(f"final prompt: {prompt}")
+
             return (name,prompt)
 
         def getShotStyle(self,step,width,height):
